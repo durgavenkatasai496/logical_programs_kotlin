@@ -4,30 +4,10 @@ import kotlinx.coroutines.joinAll
 
 
 fun main(){
-    rowsChecking()
+    challenge()
 }
 
-fun rowsChecking(){
-
-    var rows = 5
-
-
-    for (i in rows downTo 1){
-
-        for (j in 1..(rows - i)){
-            print(" ")
-        }
-
-        for (k in 1..i){
-            print("* ")
-        }
-
-        println("")
-
-    }
-
-
-
+fun challenge(){
 
 
 }
