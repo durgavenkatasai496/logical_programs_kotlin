@@ -1,13 +1,12 @@
 package com.example.logicalprograms
 
-import kotlinx.coroutines.joinAll
 
 
-fun main(){
-    challenge()
+fun main() {
 }
 
-fun challenge(){
+fun challenge(input: String) {
+
 
 
 }
